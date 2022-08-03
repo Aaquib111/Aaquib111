@@ -21,6 +21,6 @@
   - [Instagram](https://www.instagram.com/theactualaaquib/?hl=en)
 
 <!--- ⚡ Fun fact: -->
-## My Fav Languages
+## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaquib111&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
