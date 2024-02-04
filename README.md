@@ -6,9 +6,9 @@
 - 🤗 Name: Aaquib Syed
 - 😄 Pronouns: He/Him
 
-- 🔭 I’m looking to solve real world issues using technology. 
-  - Currently, I am working on a paper with the Montefiore-Einstein Radiology Lab in NYC on predicting breast cancer chemotherapy response using AI to maximize survival rates and     save lives. This research has been published! I hope to one day have my research be used clinically, potentially saving hundreds of thousands of lives annually!
-  - In addition to my research on cancer, I also love using technology to solve accessibility issues. Check out my work on creating a [personal-distance-monitor](https://github.com/Aaquib111/personal-distance-monitor) to help individuals with autism spectrum disorder with learning social distancing, and my work on [creating a device to manage the stress levels](https://github.com/Aaquib111/asd-stress-level-management) of students with autism spectrum disorder!
+- 🔭 Hi! I like thinking about and solving problems in AI/ML and finance---my current interest is in creating scalable methods to attribute and edit behaviors and knowledge in large language models. I also love competitive programming, working with low-level languages, and creating infrastructure and trading strategies for financial markets.
+
+- 🥣 For now, you'll find me vehemently tinkering with my AI models and inevitably breaking something (in a separate git branch of course), writing research papers, and trying to optimize the milk-to-cereal ratio for my breakfast.
 <!--- 🌱 I’m currently learning more on deep learning using CNNs to web design using React and Djag-->
 
 - 🤔 I’m looking for more opportunities to utilize my skills to bring technologies to life!
